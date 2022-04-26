@@ -1,3 +1,5 @@
 brad started actualize coding bootcamp. it is 17 weeks long. he is going to learn a lot. hopefully he can get a sweet job afterwards!
 
 adding a second paragraph. tracking these changes with git.
+
+git is folder-centric according to joey.
